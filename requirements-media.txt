@@ -1,0 +1,8 @@
+Pillow==12.3.0
+numpy==2.3.5
+av==18.1.0
+opencv-python==5.0.0.93
+faster-whisper==1.2.1
+rapidocr==3.9.2
+onnxruntime==1.30.0
+imageio-ffmpeg==0.6.0

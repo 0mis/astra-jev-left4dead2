@@ -1,0 +1,4 @@
+Pillow==12.3.0
+numpy==2.5.3
+obsws-python==1.8.0
+vpk==1.4.0
